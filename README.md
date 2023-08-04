@@ -2,8 +2,9 @@
 
 # PyCraft
 
-<hr>
-一个Python实现的MCBot(Developing)
+一个Python实现的MCBot
+
+(Developing)
 
 
 </div>
